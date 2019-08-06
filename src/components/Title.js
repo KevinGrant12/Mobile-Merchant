@@ -1,6 +1,5 @@
 import React from 'react';
 
-// convert to functional component?
 export default function Title({ name, title }) {
   return (
     <div className="row">
